@@ -1,0 +1,13 @@
+{
+  "name": "projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"Rodando projeto simples em HTML\"",
+    "test": "echo \"Nenhum teste configurado\" && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
